@@ -1,5 +1,4 @@
 import{connect}from'cloudflare:sockets';
-
 const CONFIG={
   uuid:' ',
   password:' ',
